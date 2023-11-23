@@ -32,6 +32,7 @@ The API will be available at http://127.0.0.1:5000/search.
 Performing a Search:
 
 Use a web browser or any HTTP client to send a GET request to /search endpoint with the query parameter (?query=YourQuery).
+http://10.10.9.7:5000/search?query=YourQuery you can replace YourQuery with Query.
 
 
 Results:
@@ -43,6 +44,7 @@ Example Usage:
 
 
 GET /search?query=YourQuery
+
 
 
 Contributions:
