@@ -2,7 +2,7 @@
 
 
 Semantic Search API using Flask
-This repository contains code for a RESTful Semantic Search API built with Flask, enabling users to perform semantic searches across a collection of text files.
+This repository contains code for a RESTful Semantic Search API built with Flask, enabling users to perform semantic searches across a collection of Json files.
 
 Features:
 Semantic Search Functionality: Utilizes spaCy for text preprocessing, scikit-learn for TF-IDF vectorization, and cosine similarity for semantic search capabilities.
