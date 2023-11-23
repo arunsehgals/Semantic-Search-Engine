@@ -34,6 +34,11 @@ Performing a Search:
 Use a web browser or any HTTP client to send a GET request to /search endpoint with the query parameter (?query=YourQuery).
 
 
+Results:
+
+Results will be in Json format with the Relivant Text, Name of file and Matching score. Result shown will be top Three results according to the match score higher to Lower score.
+
+
 Example Usage:
 
 
