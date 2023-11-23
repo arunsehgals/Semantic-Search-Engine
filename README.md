@@ -35,8 +35,8 @@ Use a web browser or any HTTP client to send a GET request to /search endpoint w
 
 
 Example Usage:
-http
-Copy code
+
+
 GET /search?query=YourQuery
 
 
